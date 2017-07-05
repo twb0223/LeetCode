@@ -23,7 +23,6 @@ public class PascalsTriangle
         System.out.println(new PascalsTriangle().getRow(3));
     }
 
-
     public List<Integer> getRow(int rowIndex)
     {
         // rowIndex是0开始的，我们将它加1，得到k
